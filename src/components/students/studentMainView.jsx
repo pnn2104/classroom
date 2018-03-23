@@ -75,7 +75,7 @@ class StudentMainView extends React.Component {
                 />
               </Tile>
             );
-            // return <StudentClassLabel item={item} key={index} clickHandler={this.props.updateStudentTargetClass}/>;
+            // <StudentClassLabel item={item} key={index} clickHandler={this.props.updateStudentTargetClass}/>)
           })}
         </Tiles>
       </div>
